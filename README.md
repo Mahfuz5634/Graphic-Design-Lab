@@ -1,4 +1,4 @@
-# Name: Md Mahfuz
+# Name: Md. Mahfuz
 # Id: 0432310005101057
 # Computer Graphics and Animations - Modern OpenGL
 
